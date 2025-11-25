@@ -1,0 +1,2 @@
+RPM : 3000
+velocity : 200
